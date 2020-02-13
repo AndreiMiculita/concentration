@@ -97,11 +97,9 @@
 		DAC5149723F46ADF006F7DCC /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
-				DAC5149823F46ADF006F7DCC /* AppDelegate.swift */,
 				DAC5149A23F46ADF006F7DCC /* ViewController.swift */,
 				DAC5149C23F46ADF006F7DCC /* Main.storyboard */,
-				DAC5149F23F46AE2006F7DCC /* Assets.xcassets */,
-				DAC514A123F46AE2006F7DCC /* LaunchScreen.storyboard */,
+				DACFCCBF23F5757A0084FAC5 /* Supporting Files */,
 				DAC514A423F46AE2006F7DCC /* Info.plist */,
 			);
 			path = Concentration;
@@ -123,6 +121,16 @@
 				DAC514BA23F46AE3006F7DCC /* Info.plist */,
 			);
 			path = ConcentrationUITests;
+			sourceTree = "<group>";
+		};
+		DACFCCBF23F5757A0084FAC5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DAC5149823F46ADF006F7DCC /* AppDelegate.swift */,
+				DAC5149F23F46AE2006F7DCC /* Assets.xcassets */,
+				DAC514A123F46AE2006F7DCC /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
