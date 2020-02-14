@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA80037523F6A39300B9CA89 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA80037423F6A39300B9CA89 /* Concentration.swift */; };
+		DA80037723F6A48D00B9CA89 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA80037623F6A48D00B9CA89 /* Card.swift */; };
 		DAC5149923F46ADF006F7DCC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC5149823F46ADF006F7DCC /* AppDelegate.swift */; };
 		DAC5149B23F46ADF006F7DCC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC5149A23F46ADF006F7DCC /* ViewController.swift */; };
 		DAC5149E23F46ADF006F7DCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAC5149C23F46ADF006F7DCC /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DA80037423F6A39300B9CA89 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = SOURCE_ROOT; };
+		DA80037623F6A48D00B9CA89 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		DAC5149523F46ADF006F7DCC /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAC5149823F46ADF006F7DCC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DAC5149A23F46ADF006F7DCC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +101,8 @@
 		DAC5149723F46ADF006F7DCC /* Concentration */ = {
 			isa = PBXGroup;
 			children = (
+				DA80037423F6A39300B9CA89 /* Concentration.swift */,
+				DA80037623F6A48D00B9CA89 /* Card.swift */,
 				DAC5149A23F46ADF006F7DCC /* ViewController.swift */,
 				DAC5149C23F46ADF006F7DCC /* Main.storyboard */,
 				DACFCCBF23F5757A0084FAC5 /* Supporting Files */,
@@ -266,6 +272,8 @@
 			files = (
 				DAC5149B23F46ADF006F7DCC /* ViewController.swift in Sources */,
 				DAC5149923F46ADF006F7DCC /* AppDelegate.swift in Sources */,
+				DA80037523F6A39300B9CA89 /* Concentration.swift in Sources */,
+				DA80037723F6A48D00B9CA89 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
